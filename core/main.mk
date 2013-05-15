@@ -499,6 +499,7 @@ subdirs := \
 	external/speex \
 	external/sqlite \
 	external/stlport \
+	external/strace \
 	external/tinyalsa \
 	external/tremolo \
 	external/webp \
