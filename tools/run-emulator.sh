@@ -188,7 +188,7 @@ fi
 
 # Note: -no-snapstorage disables all qemu snapshotting functionality, which is
 # different than the 'qemu-img snapshot' disk commands, above
-exec emulator -memory 512 \
+exec emulator -memory 760 \
     -skin WVGA800 -skindir development/tools/emulator/skins \
     -sysdir "$sysdir" \
     -system "$disk_system" \
